@@ -10,6 +10,14 @@ Goto the Wiki tab.
 **Requirements**
 None. This is a standalone resource
 
+**FAQ**
+
+**The loading image does not work?**
+Make sure the loading image its called *loadscreen.jpg* in that casing.
+
+**I tried everything what do I do?**
+Download a fresh copy as it works and relook through your code.
+
 If you can’t host songs yourself. DM me on discord (FAXES#8655) and I can help you.
 
 For further support visit my https://discord.gg/R9Z7npM
